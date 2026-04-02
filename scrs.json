@@ -752,7 +752,23 @@
   "lua hammer v2": {
     "scr": "require(93167806571038).LuaHammerV2(%s)"
   },
-  "angel stone": {
-    "scr": "require(16397229771)(%s)"
-  }
+  "Epstein V2": {
+    "scr": "require(122049298859).MorphMonster(%s,  `Epstein V2`)"
+  },
+  "Original IY Reborn": {
+    "scr": "require(5390833042)(%s)"
+  },
+  "Wither Storm Panel": {
+    "scr": "require(110406544116193).WitherStormPanel(%s)"
+  },
+  "scp-096": {
+    "scr": "require(5061767478).load(%s)"
+  },
+  "Oblivion": {
+    "scr": "require(13666904194):Oblivion(%s)"
+  },
+  "Demolisher V1": {
+    "scr": "require(12929948920).a(%s)"
+  },
+  
 }
