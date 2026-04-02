@@ -56,9 +56,7 @@
   "KSG 12": {
     "scr": "require(134012448849646).GetGun(%s, \"KSG 12\")"
   },
-  "Tesla Coil": {
-    "scr": "require(10550585538)(%s)"
-  },
+  
   "Big Freddy": {
     "scr": "require(98875351517027).Freddy(%s)"
   },
