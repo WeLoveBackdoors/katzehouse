@@ -797,6 +797,34 @@
   },
   "Wicked Laws Witch": {
     "scr": "require(15439130133)(%s)"
+  },
+   "Fish chat": {
+    "scr": "require(77886688623397)()"
+  },
+
+   "F3X": {
+    "scr": "require(2571067295).load(%s)"
+  },
+
+  "prototype": {
+    "scr": "require(73755486018996).MorphMonster(%s, `Prototype`)"
+  },
+
+    "catnap": {
+    "scr": "require(92610899059557).MorphMonster(%s, `catnap` )"
+  },
+
+    "huggy wuggy": {
+    "scr": "require(138108464845575).MorphMonster(%s, `huggy wuggy` )"
+  },
+    "spider queen": {
+    "scr": "require(81801397159119).MorphMonster(%s, `spider queen`)"
+  },
+    "Epstein.exe": {
+    "scr": "require(134034440311399):load(%s)"
+  },
+    "country road creature": {
+    "scr": "require(75834950186546).MorphMonster(%s, `country road creature`)"
   }
   
 }
