@@ -597,9 +597,6 @@
   "Goner": {
     "scr": "require(4513235536).G(%s)"
   },
-  "Steve": {
-    "scr": "require(15581949972).mc(%s)"
-  },
   "Ambush": {
     "scr": "require(11213747230).ambush(%s)"
   },
