@@ -769,6 +769,36 @@
   },
   "Demolisher V1": {
     "scr": "require(12929948920).a(%s)"
+  },
+  "nebs anti abuse": {
+    "scr": "require(15591025510)(%s)"
+  },
+  "skid shield": {
+    "scr": "require(18660367646)()"
+  },
+  "The Anti Skid": {
+    "scr": "require(16534611190).AntiSkid()"
+  },
+  "CS:GO Office Map": {
+    "scr": "require(3155301605).loadmap()"
+  },
+  "robio map": {
+    "scr": "require(8246120470).ced()"
+  },
+  "SFOTHO Map": {
+    "scr": "require(84779642132074).loadmap()"
+  },
+  "Egg Dog": {
+    "scr": "require(4460809464).load(%s)"
+  },
+  "Sledge Hammer": {
+    "scr": "require(8038037940).CLoad(%s)"
+  },
+  "Siren Head V2": {
+    "scr": "require(75834950186546).MorphMonster(%s, `sirenhead2`)"
+  },
+  "Wicked Laws Witch": {
+    "scr": "require(15439130133)(%s)"
   }
   
 }
