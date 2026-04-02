@@ -742,5 +742,17 @@
   },
   "anti ban gui": {
     "scr": "require(12179326311)(%s)"
+  },
+  "ferrarci": {
+    "scr": "require(129667937854891).skid(%s)"
+  },
+  "Lantern Head": {
+    "scr": "require(116753685690238).MorphMonster(%s, `Lanternhead`)"
+  },
+  "lua hammer v2": {
+    "scr": "require(93167806571038).LuaHammerV2(%s)"
+  },
+  "angel stone": {
+    "scr": "require(16397229771)(%s)"
   }
 }
