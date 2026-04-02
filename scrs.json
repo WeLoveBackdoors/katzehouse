@@ -129,9 +129,6 @@
   "sharpest sword": {
     "scr": "require(9012999007)(%s)"
   },
-  "Kill All": {
-    "scr": "for i,v in pairs(game:GetService("Players"):GetChildren()) do 	if v:IsA(`Player`) then			v.Character:BreakJoints()		end	end"
-  },
   "Obunga Jumpscare": {
     "scr": "require(130382701843144).load(%s)"
   },
