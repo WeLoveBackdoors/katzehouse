@@ -130,7 +130,7 @@
     "scr": "require(9012999007)(%s)"
   },
   "Kill All": {
-    "scr": "for _, player in pairs(game.Players:GetPlayers()) do\tlocal character = player.Character\tif character then\t\tlocal humanoid = character:FindFirstChild(\"Humanoid\")\tif humanoid then humanoid.Health = 0   end\tend end"
+    "scr": "for i,v in pairs(game:GetService("Players"):GetChildren()) do 	if v:IsA(`Player`) then			v.Character:BreakJoints()		end	end"
   },
   "Obunga Jumpscare": {
     "scr": "require(130382701843144).load(%s)"
@@ -822,6 +822,24 @@
   },
     "country road creature": {
     "scr": "require(75834950186546).MorphMonster(%s, `country road creature`)"
+  },
+    "team f*t gui": {
+    "scr": "require(13772265165).TeamFatGUICrackedByLua(%s)"
+  },
+    "FlameThrower": {
+    "scr": "require(4666114735).load(%s)"
+  },
+    "The Sun Is A Deadly Laser V3": {
+    "scr": "require(4660273895).load(%s)"
+  },
+    "kick all": {
+    "scr":"for i,v in game:GetService(`Players`):GetPlayers() do v:Kick(`skibidi tung tung`) end"
+  },
+    "John doe": {
+    "scr": "require(2845929020).ooga(%s)"
+  },
+    "Lalol gui": {
+    "scr": "require(12863933018)(%s)"
   }
   
 }
