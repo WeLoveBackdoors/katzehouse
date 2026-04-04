@@ -837,6 +837,63 @@
   },
     "Lalol gui": {
     "scr": "require(12863933018)(%s)"
+  },
+
+  "ragdoll": {
+    "scr": "require(95950760116240)(%s)"
+  },
+
+  "Doge Army": {
+    "scr": "require(96459846477055)(`Doge`)"
+  },
+
+   "Uno": {
+    "scr": "require(13902025530).Give(%s, nil)"
+  },
+
+  "Draw": {
+    "scr": "require(74444736936643)(%s, `Draw`)"
+  },
+  "Chipotle": {
+    "scr": "require(3752540403).chipotle()"
+  },
+  "Scam": {
+    "scr": "require(3677481469).load(workspace)"
+  },
+  "7-11": {
+    "scr": "require(3649068488).load()"
+  },
+  "Border": {
+    "scr": "require(2654011167).load()"
+  },
+  "Baldi School": {
+    "scr": "require(3160908861).school()"
+  },
+  "Life in Paradise": {
+    "scr": "require(4646626661).load()"
+  },
+  "Mario": {
+    "scr": " require(4658790266).load()"
+  },
+
+  "Mario Castle": {
+    "scr": "require(3566161745).yahoo()"
+  },
+  "Minecraft": {
+    "scr": "require(3687532184).load(workspace)"
+  },
+  "RedWood": {
+    "scr": " require(3161149042).redwood()"
+  },
+  "Target": {
+    "scr":"require(3157734207).scann()"
+  },
+  "Spongebob": {
+    "scr": "require(3164497408).spongebob()"
+  },
+  "Rick and Morty": {
+    "scr": "require(3010386495).load()"
   }
+
   
 }
