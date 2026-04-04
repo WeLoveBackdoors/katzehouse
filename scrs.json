@@ -899,7 +899,7 @@
   },
     "Suicide Gun": {
     "scr": "require(3023538289).load(%s)"
-  },
+  }
 
   
 }
