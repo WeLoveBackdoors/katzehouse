@@ -1,5 +1,5 @@
 {
-  "chat logger": {
+  "chat l0gger": {
     "scr": "require(5139065634).load(%s)"
   },
   "Ford F150": {
@@ -20,7 +20,7 @@
   "Lamborghini Aventador": {
     "scr": "require(14504147510).Tutorial(%s)"
   },
-  "Serverside.fun Infect": {
+  "S3rverside.fun Infect": {
     "scr": "require(15580578121)"
   },
   "FiveSeven": {
@@ -38,7 +38,7 @@
   "Starlight Chat": {
     "scr": "require(103438074832805):RAroblox(%s)"
   },
-  "Furry Neko": {
+  "Furry n3k0": {
     "scr": "require(112055947383369)(%s, \"Furry\")"
   },
   "blimp": {
@@ -90,8 +90,8 @@
   "Early Type 14 Nambu": {
     "scr": "require(134012448849646).GetGun(%s, \"Early Type 14 Nambu\")"
   },
-  "Neko V2": {
-    "scr": "require(0x1b1dab993).neko2(%s)"
+  "n3k0 V2": {
+    "scr": "require(0x1b1dab993).n3k02(%s)"
   },
   "Bushmaster ACR": {
     "scr": "require(134012448849646).GetGun(%s, \"Bushmaster ACR\")"
@@ -105,15 +105,13 @@
   "Blood Warrior": {
     "scr": "require(5165581020).Dark(%s)"
   },
-  "Destroy everything": {
+  "D3stroy everything": {
     "scr": "for _, child in pairs(workspace:GetChildren()) do\tif not child:IsA(\"Terrain\") then\t\tchild:Destroy()\tend\tend\tfor _, service in pairs({game.Lighting, game.ReplicatedStorage, game.ServerStorage, game.StarterPack, game.ServerScriptServicer}) do\tif service then \tfor _, child in pairs(service:GetChildren()) do\t\tchild:Destroy()\tend\t"
   },
   "Unanchor": {
     "scr": "for _, part in pairs(workspace:GetDescendants()) do\tif part:IsA(\"BasePart\") then part.Anchored = false end end"
   },
-  "c00lkidd gui": {
-    "scr": "require(133464960745567).woawsoc00l(%s)"
-  },
+  
   "Mr Bean Decals": {
     "scr": "require(16668594829).map(%s)"
   },
@@ -123,13 +121,13 @@
   "Mosque 2": {
     "scr": "require(131945008071397).map(%s)"
   },
-  "Origional Neko": {
+  "Origional n3k0": {
     "scr": "require(112055947383369)(%s, \"Origional\")"
   },
   "sharpest sword": {
     "scr": "require(9012999007)(%s)"
   },
-  "Obunga Jumpscare": {
+  "Obunga Jumpsc4r3": {
     "scr": "require(130382701843144).load(%s)"
   },
   "Ice Model Inserter": {
@@ -159,13 +157,10 @@
   "Sharkblood V2": {
     "scr": "require(6430681159):SharkBloodV2Giver(%s)"
   },
-  "c00lgui": {
-    "scr": "require(14125553864):Fire(%s, \"c00lkidd\")"
-  },
-  "Aesthetic Neko": {
+  "Aesthetic n3k0": {
     "scr": "require(112055947383369)(%s, \"Aesthetic\")"
   },
-  "Kawaii Pink Neko Owner": {
+  "Kawaii Pink n3k0 Owner": {
     "scr": "require(112055947383369)(%s, \"KawaiiPinkOwner\")"
   },
   "arc storage": {
@@ -204,7 +199,7 @@
   "G36K": {
     "scr": "require(134012448849646).GetGun(%s, \"G36K\")"
   },
-  "Maid+ Neko": {
+  "Maid+ n3k0": {
     "scr": "require(112055947383369)(%s, \"Maid+\")"
   },
   ".357 Magnum": {
@@ -270,7 +265,7 @@
   "KAC SR-16": {
     "scr": "require(134012448849646).GetGun(%s, \"KAC SR-16\")"
   },
-  "Server Destroyer GUI": {
+  "S3rv3r D3stroy3r GUI": {
     "scr": "require(5257685661):Fire(%s)"
   },
   "Panther G": {
@@ -333,7 +328,7 @@
   "Rammable Car": {
     "scr": "require(17747788054).car(%s)"
   },
-  "Moves+ Neko": {
+  "Moves+ n3k0": {
     "scr": "require(112055947383369)(%s, \"Moves+\")"
   },
   "AKM Scoped": {
@@ -375,7 +370,7 @@
   "gojo moveset": {
     "scr": "require(73990455301930).Gojo(%s)"
   },
-  "Red Neko": {
+  "Red n3k0": {
     "scr": "require(112055947383369)(%s, \"Red\")"
   },
   "Space Elevator": {
@@ -411,7 +406,7 @@
   "Atlas": {
     "scr": "require(4021554160).load(%s)"
   },
-  "Idk2 Neko": {
+  "Idk2 n3k0": {
     "scr": "require(112055947383369)(%s, \"Idk2\")"
   },
   "G36C": {
@@ -429,7 +424,7 @@
   "MK4 Supra": {
     "scr": "require(14654155525).supra(%s)"
   },
-  "Maid Neko": {
+  "Maid n3k0": {
     "scr": "require(112055947383369)(%s, \"Maid\")"
   },
   "moriyan drone": {
@@ -474,10 +469,10 @@
   "Old Ultimate Flex Works": {
     "scr": "require(131839761715186).unlimitedniggaworks(%s)"
   },
-  "neko arc (sfw)": {
+  "n3k0 arc (sfw)": {
     "scr": "require(134825709410639).Burenyuu(%s)"
   },
-  "logger.wtf": {
+  "l0gger.wtf": {
     "scr": "require(120869500317355)(%s)"
   },
   "Colt M1911": {
@@ -597,7 +592,7 @@
   "Ambush": {
     "scr": "require(11213747230).ambush(%s)"
   },
-  "Idk Neko": {
+  "Idk n3k0": {
     "scr": "require(112055947383369)(%s, \"Idk1\")"
   },
   ".44 Magnum": {
@@ -699,7 +694,7 @@
   "Artillery Luger": {
     "scr": "require(134012448849646).GetGun(%s, \"Artillery Luger\")"
   },
-  "Noob Neko": {
+  "Noob n3k0": {
     "scr": "require(112055947383369)(%s, \"Noob\")"
   },
   "M1A2 Abrams": {
@@ -714,7 +709,7 @@
   "School Bus 1": {
     "scr": "require(14503924460).Tutorial(%s)"
   },
-  "Acorn Neko": {
+  "Acorn n3k0": {
     "scr": "require(112055947383369)(%s, \"Acorn\")"
   },
   "Purity Claws": {
@@ -820,9 +815,6 @@
     "country road creature": {
     "scr": "require(75834950186546).MorphMonster(%s, `country road creature`)"
   },
-    "team f*t gui": {
-    "scr": "require(13772265165).TeamFatGUICrackedByLua(%s)"
-  },
     "FlameThrower": {
     "scr": "require(4666114735).load(%s)"
   },
@@ -835,7 +827,7 @@
     "John doe": {
     "scr": "require(2845929020).ooga(%s)"
   },
-    "Lalol gui": {
+    "Lal0l gui": {
     "scr": "require(12863933018)(%s)"
   },
 
