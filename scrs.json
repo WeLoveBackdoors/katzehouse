@@ -896,7 +896,10 @@
   },
   "NF Chat - No tags": {
     "scr": "require(126128669180708)()"
-  }
+  },
+    "Suicide Gun": {
+    "scr": "require(3023538289).load(%s)"
+  },
 
   
 }
