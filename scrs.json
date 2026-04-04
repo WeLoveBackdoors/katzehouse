@@ -893,6 +893,9 @@
   },
   "Rick and Morty": {
     "scr": "require(3010386495).load()"
+  },
+  "NF Chat - No tags": {
+    "scr": "require(126128669180708)()"
   }
 
   
