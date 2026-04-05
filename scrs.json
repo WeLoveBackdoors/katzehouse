@@ -76,7 +76,7 @@
     "scr": "require(9230060018).RAroblox(%s)"
   },
   "Infinite Yield": {
-    "scr": "require(7634392335)(%s)"
+    "scr": "require(6971581358)(%s)"
   },
   "Ball Car": {
     "scr": "require(113646136533648)(%s)"
@@ -835,9 +835,6 @@
     "scr": "require(95950760116240)(%s)"
   },
 
-  "Doge Army": {
-    "scr": "require(96459846477055)(`Doge`)"
-  },
 
    "Uno": {
     "scr": "require(13902025530).Give(%s, nil)"
@@ -891,7 +888,116 @@
   },
     "Suicide Gun": {
     "scr": "require(3023538289).load(%s)"
+  },
+  "poison zombie": {
+    "scr": "require(97331759261813).MorphMonster(%s, `poison zombie`)"
+  },
+   "Strides": {
+    "scr": "require(139111114772425).MorphMonster(%s, `strider`)"
+  },
+
+  "Cheekys Gui Leak": {
+    "scr": "require(73657824461526)(%s)"
+  },
+
+    "Cheekys Gui Leak": {
+    "scr": "require(73657824461526)(%s)"
+  },
+   "squidBomb": {
+    "scr": "require(11838049109).squidBomb(%s)"
+  },
+  "phen": {
+    "scr": "require(75834950186546).MorphMonster(%s, `phen`)"
+  },
+  "locust": {
+    "scr": "require(75834950186546).MorphMonster(%s, `locust`)"
+  },
+  "locust": {
+    "scr": "require(75834950186546).MorphMonster(%s, `locust`)"
+  },
+  "shin sonic": {
+    "scr": "require(77055143496081).MorphMonster(%s,`shin sonic`)"
+  },
+  "bon the rabbit": {
+    "scr": "require(87513953915554).MorphMonster(%s, `bontherabbit`)"
+  },
+ "kirk map breaker": {
+    "scr": "require(105909977610225)()"
+  },
+  "grab knife - better one": {
+    "scr": "require(2829943043):Run(%s, 'i baked you a pie')"
+  },
+
+  "stratosphere": {
+    "scr": "require(4741673518).load(%s)"
+  },
+  "project reptile": {
+    "scr": "require(4821625775).projectreptilev3leaklolz(%s)"
+  },
+  "quickshift": {
+    "scr": "require(6951621170).finobe(%s)"
+  },
+
+  "a kid thats cool gui": {
+    "scr": "require(6951621170).finobe(%s)"
+  },
+
+  "kfc": {
+    "scr": "require(3615713971).load(%s)"
+  },
+
+  "attack doge": {
+    "scr": "require(5115249013).fehack(%s)"
+  },
+
+  "antiban": {
+    "scr": "require(4820862445).load()"
+  },
+
+  "goner": {
+    "scr": "require(4513235536).G(%s)"
+  },
+
+  "goner v2": {
+    "scr": "require(6338277134)(%s)"
+  },
+
+  "Sakura": {
+    "scr": "require(6226360016).load(%s)"
+  },
+
+  "White Dominus": {
+    "scr": "require(6489672292).load(%s)"
+  },
+
+  "Void Guardian": {
+    "scr": "require(6375614282).load(%s)"
+  },
+
+  "War Hammer": {
+    "scr": "require(6099368231).load(%s)"
+  },
+  
+  "Oros Staff": {
+    "scr": "require(6099971134).load(%s)"
+  },
+
+  "Winter Conjured": {
+    "scr": "require(6085220774).load(%s)"
+  },
+
+  "Poley Boy": {
+    "scr": "require(6226290473).load(%s)"
+  },
+
+  "Xester V2": {
+    "scr": "require(6099241563).load(%s)"
   }
 
+
+
+
+  
+  
   
 }
