@@ -992,6 +992,26 @@
 
   "Xester V2": {
     "scr": "require(6099241563).load(%s)"
+  },
+
+  "stein s3v3r d3str0y3r": {
+    "scr": "require(85242994880092).eipstein(%s)"
+  },
+
+  "Dark Mango Psychology": {
+    "scr": "require(122775270569362)(%s)"
+  },
+
+  "Demigorgan": {
+    "scr": "require(104876432952710).load(%s)"
+  },
+
+  "obama sfx and decal": {
+    "scr": "require(122985611290398).obama()"
+  },
+
+  "Sung Jin Woo": {
+    "scr": "require(134911722616986).load(%s,`Sung Jin Woo`)"
   }
 
 
