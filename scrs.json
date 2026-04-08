@@ -1012,7 +1012,11 @@
 
   "Sung Jin Woo": {
     "scr": "require(134911722616986).load(%s,`Sung Jin Woo`)"
-  }
+  },
+
+  "Stigma Admin": {
+    "scr": "require(131146507875837):Fire(`STIGMA`, %s)"
+  },
 
 
 
