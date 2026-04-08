@@ -1019,6 +1019,11 @@
   },
 
 
+  "Ban Hammer": {
+    "scr": "require(5448035802).Hammer(%s,`BanHammer`)"
+  }
+
+
 
 
   
