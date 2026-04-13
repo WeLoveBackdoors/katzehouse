@@ -1021,7 +1021,90 @@
 
   "Ban Hammer": {
     "scr": "require(5448035802).Hammer(%s,`BanHammer`)"
+  },
+
+  "Adult Mimic": {
+    "scr": "require(117157196683020).MorphMonster(%s, `adultmimic`)"
+  },
+
+  "Aka Manto": {
+    "scr": "require(88521859208314).MorphMonster(%s, `aka manto`)"
+  },
+
+  "Alyx Antlion": {
+    "scr": "require(134797032139295).MorphMonster(%s, `antlionalyx`)"
+  },
+
+  "Antlion Guard": {
+    "scr": "require(134797032139295).MorphMonster(%s, `antlionguard`)"
+  },
+
+  "Anxious Dog Trevor": {
+    "scr": "require(75834950186546).MorphMonster(%s, `anxious dog`)"
+  },
+
+  "Aranea Membri": {
+    "scr": "require(137620872341555).MorphMonster(%s, `Aranea Membri`)"
+  },
+  
+  "Bacteria": {
+    "scr": "require(78539392052273).MorphMonster(%s, `bacteria`)"
+  },
+
+  "Banana eater": {
+    "scr": "require(74706674245579).MorphMonster(%s, `banana eater`)"
+  },
+
+  "Barney": {
+    "scr": "require(134797032139295).MorphMonster(%s, `barney`)"
+  },
+
+
+  "Bart": {
+    "scr": "require(76782540494418).MorphMonster(%s, `bart`)"
+  },
+
+  "Big Godzilla": {
+    "scr": "require(109862439491716).MorphMonster(%s, `Godzilla`)"
+  },
+
+  "Big Charlie": {
+    "scr": "require(75834950186546).MorphMonster(%s, `big charlie`)"
+  },
+
+  "Bloodbath": {
+    "scr": "require(76782540494418).MorphMonster(%s, `bloodbath`)"
+  },
+
+  "Twisted Bobette": {
+    "scr": "require(91204966217453).MorphMonster(%s, `Twisted Bobette`)"
+  },
+
+  "Bonthe Rabbit": {
+    "scr": "require(87513953915554).MorphMonster(%s, `bontherabbit`)"
+  },
+
+  "Bowler": {
+    "scr": "require(91316798180463)(%s, `Bowler`)"
+  },
+
+  "Boxy Boo": {
+    "scr": "require(138939181489404).MorphMonster(%s, `boxyboo`)"
+  },
+
+  "Cartoon Cat": {
+    "scr": "require(75834950186546).MorphMonster(%s, `cartoon cat`)"
+  },
+
+  "OG Cartoon Cat": {
+    "scr": "require(75834950186546).MorphMonster(%s, `og cartoon cat`)"
   }
+  
+
+  
+
+  
+
 
 
 
