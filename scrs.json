@@ -1098,7 +1098,16 @@
 
   "OG Cartoon Cat": {
     "scr": "require(75834950186546).MorphMonster(%s, `og cartoon cat`)"
+  },
+
+  "Cartoon Dog": {
+    "scr": "require(75834950186546).MorphMonster(%s, `cartoon dog`)"
+  },
+
+  "Cartoon Dog Phase 2": {
+    "scr": "require(75834950186546).MorphMonster(%s, `cartoon dog2`)"
   }
+  
   
 
   
