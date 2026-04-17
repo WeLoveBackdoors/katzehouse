@@ -505,9 +505,6 @@
   "AA-12 CQB": {
     "scr": "require(134012448849646).GetGun(%s, \"AA-12 CQB\")"
   },
-  "Stratosphere Admin": {
-    "scr": "require(4741673518).load(%s)"
-  },
   "AUG A3": {
     "scr": "require(134012448849646).GetGun(%s, \"AUG A3\")"
   },
@@ -928,7 +925,7 @@
     "scr": "require(2829943043):Run(%s, 'i baked you a pie')"
   },
 
-  "stratosphere": {
+  "strat0spher3": {
     "scr": "require(4741673518).load(%s)"
   },
   "project reptile": {
