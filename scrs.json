@@ -1149,7 +1149,48 @@
 
   "walmart": {
     "scr": "require(6763551855).map()"
+  },
+
+  "pumpkin rabbit": {
+    "scr": "require(87513953915554).MorphMonster(%s, `pumpkinrabbit`)"
+  },
+
+  "Jester": {
+    "scr": "require(110306212034916):Init(%s)"
+  },
+
+  "Adult Mimic": {
+    "scr": "require(130962958730541).MorphMonster(%s, `adultmimic`)"
+  },
+
+  "Peeka": {
+    "scr": "require(91316798180463).MorphMonster(%s, `P.E.K.K.A`)"
+  },
+
+  "Meganight": {
+    "scr": "require(91316798180463).MorphMonster(%s, `Mega Knight`)"
+  },
+
+  "Monk": {
+    "scr": "require(91316798180463).MorphMonster(%s, `Monk`)"
+  },
+
+  "Knight": {
+    "scr": "require(91316798180463).MorphMonster(%s, `Knight`)"
+  },
+
+  "Barbarian": {
+    "scr": "require(91316798180463).MorphMonster(%s, `Barbarian`)"
+  },
+
+  "Wizard": {
+    "scr": "require(91316798180463).MorphMonster(%s, `Wizard`)"
+  },
+
+  "Guardienne": {
+    "scr": "require(91316798180463).MorphMonster(%s, `Guardienne`)"
   }
+  
   
   
   
