@@ -1103,10 +1103,45 @@
 
   "Cartoon Dog Phase 2": {
     "scr": "require(75834950186546).MorphMonster(%s, `cartoon dog2`)"
+  },
+
+  "Ignited Foxy": {
+    "scr": "require(136412581900134).JoyOfCreation(%s ,`Ignited Foxy`)"
+  },
+
+  "Househead": {
+    "scr": "require(75834950186546).MorphMonster(%s, `living house / househead`)"
+  },
+
+  "Rake": {
+    "scr": "require(13901393001).load(%s)"
+  },
+
+  "Ennard": {
+    "scr": "require(140190341324697).MorphMonster(%s,`Ennard`)"
+  },
+
+  "Dear": {
+    "scr": "require(121519008785374).MorphMonster(%s,`Dear`)"
+  },
+
+  "Doctor": {
+    "scr": "require(99855670692779).MorphMonster(%s, `Doctor`)"
+  },
+
+  "Unity 096": {
+    "scr": "require(130962958730541).MorphMonster(%s, `Unity 096`)"
+  },
+
+  "Freddy Krueger": {
+    "scr": "require(125375466492613).MorphMonster(%s, `freddy krueger`)"
+  },
+
+  "Golden Freddy": {
+    "scr": "require(15308299350)(%s)"
   }
   
   
-
   
 
   
