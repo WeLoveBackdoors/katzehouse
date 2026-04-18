@@ -1141,6 +1141,10 @@
 
   "Golden Freddy": {
     "scr": "require(15308299350)(%s)"
+  },
+
+  "idiot gui loader": {
+    "scr": "require(90818943331345)(%s)"
   }
   
   
