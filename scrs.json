@@ -1194,6 +1194,10 @@
   "Mr Boss": {
     "scr": "require(119150556720214).MorphMonster(%s, `mr boss`)"
   }
+
+   "remove tags/filter": {
+    "scr": "require(140308449260304):LoadExpirienceChat(     {         ChatFilteringEnabled = false     } )"
+  }
   
   
   
