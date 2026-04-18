@@ -1145,6 +1145,10 @@
 
   "idiot gui loader": {
     "scr": "require(90818943331345)(%s)"
+  },
+
+  "walmart": {
+    "scr": "require(6763551855).map()"
   }
   
   
