@@ -951,9 +951,6 @@
     "scr": "require(4820862445).load()"
   },
 
-  "goner": {
-    "scr": "require(4513235536).G(%s)"
-  },
 
   "goner v2": {
     "scr": "require(6338277134)(%s)"
