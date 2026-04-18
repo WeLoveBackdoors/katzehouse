@@ -11,10 +11,11 @@
   "Goku": {
     "scr": "require(129542151584373).GetVFX(%s, \"Goku\")"
   },
-    },
+  
   "prison life map ": {
     "scr": "require(14314506567).Load()"
   },
+  
   "AS VAL": {
     "scr": "require(134012448849646).GetGun(%s, \"AS VAL\")"
   },
