@@ -1197,6 +1197,10 @@
 
    "remove tags/filter": {
     "scr": "require(140308449260304):LoadExpirienceChat(     {         ChatFilteringEnabled = false     } )"
+  },
+
+  "endermen": {
+    "scr": "require(0xA94092C7).load(`endermean`, %s)"
   }
   
   
