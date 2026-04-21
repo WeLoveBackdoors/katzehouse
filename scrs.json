@@ -56,7 +56,7 @@
     "scr": "require(134012448849646).GetGun(%s, \"AK-74u\")"
   },
   "C4 Bomb": {
-    "scr": "require(0x1767bf813)(%s)"
+    "scr": "require(6282803219)(%s)"
   },
   "KSG 12": {
     "scr": "require(134012448849646).GetGun(%s, \"KSG 12\")"
@@ -96,7 +96,7 @@
     "scr": "require(134012448849646).GetGun(%s, \"Early Type 14 Nambu\")"
   },
   "n3k0 V2": {
-    "scr": "require(0x1b1dab993).n3k02(%s)"
+    "scr": "require(7278868883).n3k02(%s)"
   },
   "Bushmaster ACR": {
     "scr": "require(134012448849646).GetGun(%s, \"Bushmaster ACR\")"
@@ -238,7 +238,7 @@
     "scr": "require(125252942466544)(%s, \"minos2\")"
   },
   "Bomb Vest V2": {
-    "scr": "require(0x49731b7f).load(%s)"
+    "scr": "require(1232280447).load(%s)"
   },
   "HK SL8": {
     "scr": "require(134012448849646).GetGun(%s, \"HK SL8\")"
@@ -1200,7 +1200,7 @@
   },
 
   "endermen": {
-    "scr": "require(0xA94092C7).load(`endermean`, %s)"
+    "scr": "require(2839581383).load(`endermean`, %s)"
   },
 
    "RMPG morph gui": {
