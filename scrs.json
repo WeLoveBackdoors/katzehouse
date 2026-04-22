@@ -117,7 +117,7 @@
     "scr": "for _, part in pairs(workspace:GetDescendants()) do\tif part:IsA(\"BasePart\") then part.Anchored = false end end"
   },
   
-  "Mr Bean Decals": {
+  "Mr Bean D3cals": {
     "scr": "require(16668594829).map(%s)"
   },
   "Chinese Announcement": {
@@ -264,7 +264,7 @@
   "La_Shotgun": {
     "scr": "require(134012448849646).GetGun(%s, \"La_Shotgun\")"
   },
-  "HyperSkiddedAdmin": {
+  "HyperSk1ddedAdmin": {
     "scr": "require(7652199956).HyperSkiddedAdmin(%s,Color3.fromRGB(255, 255, 255),Color3.fromRGB(0, 0, 0),\"square\",true)"
   },
   "KAC SR-16": {
@@ -669,7 +669,7 @@
   "Btools": {
     "scr": "require(16530393933)(%s)"
   },
-  "Anti Leave": {
+  "Anti L3ave": {
     "scr": "require(12673588283)"
   },
   "Airstrike": {
@@ -1005,7 +1005,7 @@
     "scr": "require(104876432952710).load(%s)"
   },
 
-  "obama sfx and decal": {
+  "obama sfx and d3cal": {
     "scr": "require(122985611290398).obama()"
   },
 
