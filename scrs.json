@@ -190,12 +190,12 @@
     "scr": "require(134012448849646).GetGun(%s, \"Baikal MR-153\")"
   },
   "SSP": {
-    "scr": "require(79985523722761)(%s)"
+    "scr": "require(16920033857)(%s)"
   },
   "Alif Guns": {
     "scr": "require(96378053590566).gunman(%s)"
   },
-  "KYS Pistol": {
+  "KYS Pistol": {S
     "scr": "require(3023538289).load(%s)"
   },
   "N*zi Map": {
