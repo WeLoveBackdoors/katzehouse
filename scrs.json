@@ -1111,5 +1111,8 @@
   },
   "RMPG morph gui": {
     "scr": "require(126283456484261).RPMG(%s)"
+  },
+  "Guilt Morph": {
+    "scr": "require(75834950186546).MorphMonster(%s, `guilt`)"
   }
 }
