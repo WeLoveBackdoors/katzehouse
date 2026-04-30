@@ -11,11 +11,9 @@
   "Goku": {
     "scr": "require(129542151584373).GetVFX(%s, \"Goku\")"
   },
-  
   "prison life map ": {
     "scr": "require(14314506567).Load()"
   },
-  
   "AS VAL": {
     "scr": "require(134012448849646).GetGun(%s, \"AS VAL\")"
   },
@@ -61,7 +59,6 @@
   "KSG 12": {
     "scr": "require(134012448849646).GetGun(%s, \"KSG 12\")"
   },
-  
   "Big Freddy": {
     "scr": "require(98875351517027).Freddy(%s)"
   },
@@ -116,7 +113,6 @@
   "Unanchor": {
     "scr": "for _, part in pairs(workspace:GetDescendants()) do\tif part:IsA(\"BasePart\") then part.Anchored = false end end"
   },
-  
   "Mr Bean D3cals": {
     "scr": "require(16668594829).map(%s)"
   },
@@ -195,7 +191,7 @@
   "Alif Guns": {
     "scr": "require(96378053590566).gunman(%s)"
   },
-  "KYS Pistol": {S
+  "KYS Pistol": {
     "scr": "require(3023538289).load(%s)"
   },
   "N*zi Map": {
@@ -789,59 +785,51 @@
   "Wicked Laws Witch": {
     "scr": "require(15439130133)(%s)"
   },
-   "Fish chat": {
+  "Fish chat": {
     "scr": "require(77886688623397)()"
   },
-
-   "F3X": {
+  "F3X": {
     "scr": "require(2571067295).load(%s)"
   },
-
   "prototype": {
     "scr": "require(73755486018996).MorphMonster(%s, `Prototype`)"
   },
-
-    "catnap": {
+  "catnap": {
     "scr": "require(92610899059557).MorphMonster(%s, `catnap` )"
   },
-
-    "huggy wuggy": {
+  "huggy wuggy": {
     "scr": "require(138108464845575).MorphMonster(%s, `huggy wuggy` )"
   },
-    "spider queen": {
+  "spider queen": {
     "scr": "require(81801397159119).MorphMonster(%s, `spider queen`)"
   },
-    "Epstein.exe": {
+  "Epstein.exe": {
     "scr": "require(134034440311399):load(%s)"
   },
-    "country road creature": {
+  "country road creature": {
     "scr": "require(75834950186546).MorphMonster(%s, `country road creature`)"
   },
-    "FlameThrower": {
+  "FlameThrower": {
     "scr": "require(4666114735).load(%s)"
   },
-    "The Sun Is A Deadly Laser V3": {
+  "The Sun Is A Deadly Laser V3": {
     "scr": "require(4660273895).load(%s)"
   },
-    "kick all": {
-    "scr":"for i,v in game:GetService(`Players`):GetPlayers() do v:Kick(`skibidi tung tung`) end"
+  "kick all": {
+    "scr": "for i,v in game:GetService(`Players`):GetPlayers() do v:Kick(`skibidi tung tung`) end"
   },
-    "John doe": {
+  "John doe": {
     "scr": "require(2845929020).ooga(%s)"
   },
-    "Lal0l gui": {
+  "Lal0l gui": {
     "scr": "require(12863933018)(%s)"
   },
-
   "ragdoll": {
     "scr": "require(95950760116240)(%s)"
   },
-
-
-   "Uno": {
+  "Uno": {
     "scr": "require(13902025530).Give(%s, nil)"
   },
-
   "Draw": {
     "scr": "require(74444736936643)(%s, `Draw`)"
   },
@@ -866,7 +854,6 @@
   "Mario": {
     "scr": " require(4658790266).load()"
   },
-
   "Mario Castle": {
     "scr": "require(3566161745).yahoo()"
   },
@@ -877,7 +864,7 @@
     "scr": " require(3161149042).redwood()"
   },
   "Target": {
-    "scr":"require(3157734207).scann()"
+    "scr": "require(3157734207).scann()"
   },
   "Spongebob": {
     "scr": "require(3164497408).spongebob()"
@@ -888,31 +875,23 @@
   "NF Chat - No tags": {
     "scr": "require(126128669180708)()"
   },
-    "Suicide Gun": {
+  "Suicide Gun": {
     "scr": "require(3023538289).load(%s)"
   },
   "poison zombie": {
     "scr": "require(97331759261813).MorphMonster(%s, `poison zombie`)"
   },
-   "Strides": {
+  "Strides": {
     "scr": "require(139111114772425).MorphMonster(%s, `strider`)"
   },
-
   "Cheekys Gui Leak": {
     "scr": "require(73657824461526)(%s)"
   },
-
-    "Cheekys Gui Leak": {
-    "scr": "require(73657824461526)(%s)"
-  },
-   "squidBomb": {
+  "squidBomb": {
     "scr": "require(11838049109).squidBomb(%s)"
   },
   "phen": {
     "scr": "require(75834950186546).MorphMonster(%s, `phen`)"
-  },
-  "locust": {
-    "scr": "require(75834950186546).MorphMonster(%s, `locust`)"
   },
   "locust": {
     "scr": "require(75834950186546).MorphMonster(%s, `locust`)"
@@ -923,13 +902,12 @@
   "bon the rabbit": {
     "scr": "require(87513953915554).MorphMonster(%s, `bontherabbit`)"
   },
- "kirk map breaker": {
+  "kirk map breaker": {
     "scr": "require(105909977610225)()"
   },
   "grab knife - better one": {
     "scr": "require(2829943043):Run(%s, 'i baked you a pie')"
   },
-
   "strat0spher3": {
     "scr": "require(4741673518).load(%s)"
   },
@@ -939,285 +917,199 @@
   "quickshift": {
     "scr": "require(6951621170).finobe(%s)"
   },
-
   "a kid thats cool gui": {
     "scr": "require(6951621170).finobe(%s)"
   },
-
   "kfc": {
     "scr": "require(3615713971).load(%s)"
   },
-
   "attack doge": {
     "scr": "require(5115249013).fehack(%s)"
   },
-
   "antiban": {
     "scr": "require(4820862445).load()"
   },
-
-
   "goner v2": {
     "scr": "require(6338277134)(%s)"
   },
-
   "Sakura": {
     "scr": "require(6226360016).load(%s)"
   },
-
   "White Dominus": {
     "scr": "require(6489672292).load(%s)"
   },
-
   "Void Guardian": {
     "scr": "require(6375614282).load(%s)"
   },
-
   "War Hammer": {
     "scr": "require(6099368231).load(%s)"
   },
-  
   "Oros Staff": {
     "scr": "require(6099971134).load(%s)"
   },
-
   "Winter Conjured": {
     "scr": "require(6085220774).load(%s)"
   },
-
   "Poley Boy": {
     "scr": "require(6226290473).load(%s)"
   },
-
   "Xester V2": {
     "scr": "require(6099241563).load(%s)"
   },
-
   "stein s3v3r d3str0y3r": {
     "scr": "require(85242994880092).eipstein(%s)"
   },
-
   "Dark Mango Psychology": {
     "scr": "require(122775270569362)(%s)"
   },
-
   "Demigorgan": {
     "scr": "require(104876432952710).load(%s)"
   },
-
   "obama sfx and d3cal": {
     "scr": "require(122985611290398).obama()"
   },
-
   "Sung Jin Woo": {
     "scr": "require(134911722616986).load(%s,`Sung Jin Woo`)"
   },
-
   "Stigma Admin": {
     "scr": "require(131146507875837):Fire(`STIGMA`, %s)"
   },
-
-
   "Ban Hammer": {
     "scr": "require(5448035802).Hammer(%s,`BanHammer`)"
   },
-
-  "Adult Mimic": {
-    "scr": "require(117157196683020).MorphMonster(%s, `adultmimic`)"
-  },
-
-  "Aka Manto": {
-    "scr": "require(88521859208314).MorphMonster(%s, `aka manto`)"
-  },
-
-  "Alyx Antlion": {
-    "scr": "require(134797032139295).MorphMonster(%s, `antlionalyx`)"
-  },
-
-  "Antlion Guard": {
-    "scr": "require(134797032139295).MorphMonster(%s, `antlionguard`)"
-  },
-
-  "Anxious Dog Trevor": {
-    "scr": "require(75834950186546).MorphMonster(%s, `anxious dog`)"
-  },
-
-  "Aranea Membri": {
-    "scr": "require(137620872341555).MorphMonster(%s, `Aranea Membri`)"
-  },
-  
-  "Bacteria": {
-    "scr": "require(78539392052273).MorphMonster(%s, `bacteria`)"
-  },
-
-  "Banana eater": {
-    "scr": "require(74706674245579).MorphMonster(%s, `banana eater`)"
-  },
-
-  "Barney": {
-    "scr": "require(134797032139295).MorphMonster(%s, `barney`)"
-  },
-
-
-  "Bart": {
-    "scr": "require(76782540494418).MorphMonster(%s, `bart`)"
-  },
-
-  "Big Godzilla": {
-    "scr": "require(109862439491716).MorphMonster(%s, `Godzilla`)"
-  },
-
-  "Big Charlie": {
-    "scr": "require(75834950186546).MorphMonster(%s, `big charlie`)"
-  },
-
-  "Bloodbath": {
-    "scr": "require(76782540494418).MorphMonster(%s, `bloodbath`)"
-  },
-
-  "Twisted Bobette": {
-    "scr": "require(91204966217453).MorphMonster(%s, `Twisted Bobette`)"
-  },
-
-  "Bonthe Rabbit": {
-    "scr": "require(87513953915554).MorphMonster(%s, `bontherabbit`)"
-  },
-
-  "Bowler": {
-    "scr": "require(91316798180463)(%s, `Bowler`)"
-  },
-
-  "Boxy Boo": {
-    "scr": "require(138939181489404).MorphMonster(%s, `boxyboo`)"
-  },
-
-  "Cartoon Cat": {
-    "scr": "require(75834950186546).MorphMonster(%s, `cartoon cat`)"
-  },
-
-  "OG Cartoon Cat": {
-    "scr": "require(75834950186546).MorphMonster(%s, `og cartoon cat`)"
-  },
-
-  "Cartoon Dog": {
-    "scr": "require(75834950186546).MorphMonster(%s, `cartoon dog`)"
-  },
-
-  "Cartoon Dog Phase 2": {
-    "scr": "require(75834950186546).MorphMonster(%s, `cartoon dog2`)"
-  },
-
-  "Ignited Foxy": {
-    "scr": "require(136412581900134).JoyOfCreation(%s ,`Ignited Foxy`)"
-  },
-
-  "Househead": {
-    "scr": "require(75834950186546).MorphMonster(%s, `living house / househead`)"
-  },
-
-  "Rake": {
-    "scr": "require(13901393001).load(%s)"
-  },
-
-  "Ennard": {
-    "scr": "require(140190341324697).MorphMonster(%s,`Ennard`)"
-  },
-
-  "Dear": {
-    "scr": "require(121519008785374).MorphMonster(%s,`Dear`)"
-  },
-
-  "Doctor": {
-    "scr": "require(99855670692779).MorphMonster(%s, `Doctor`)"
-  },
-
-  "Unity 096": {
-    "scr": "require(130962958730541).MorphMonster(%s, `Unity 096`)"
-  },
-
-  "Freddy Krueger": {
-    "scr": "require(125375466492613).MorphMonster(%s, `freddy krueger`)"
-  },
-
-  "Golden Freddy": {
-    "scr": "require(15308299350)(%s)"
-  },
-
-  "idiot gui loader": {
-    "scr": "require(90818943331345)(%s)"
-  },
-
-  "walmart": {
-    "scr": "require(6763551855).map()"
-  },
-
-  "pumpkin rabbit": {
-    "scr": "require(87513953915554).MorphMonster(%s, `pumpkinrabbit`)"
-  },
-
-  "Jester": {
-    "scr": "require(110306212034916):Init(%s)"
-  },
-
   "Adult Mimic": {
     "scr": "require(130962958730541).MorphMonster(%s, `adultmimic`)"
   },
-
+  "Aka Manto": {
+    "scr": "require(88521859208314).MorphMonster(%s, `aka manto`)"
+  },
+  "Alyx Antlion": {
+    "scr": "require(134797032139295).MorphMonster(%s, `antlionalyx`)"
+  },
+  "Antlion Guard": {
+    "scr": "require(134797032139295).MorphMonster(%s, `antlionguard`)"
+  },
+  "Anxious Dog Trevor": {
+    "scr": "require(75834950186546).MorphMonster(%s, `anxious dog`)"
+  },
+  "Aranea Membri": {
+    "scr": "require(137620872341555).MorphMonster(%s, `Aranea Membri`)"
+  },
+  "Bacteria": {
+    "scr": "require(78539392052273).MorphMonster(%s, `bacteria`)"
+  },
+  "Banana eater": {
+    "scr": "require(74706674245579).MorphMonster(%s, `banana eater`)"
+  },
+  "Barney": {
+    "scr": "require(134797032139295).MorphMonster(%s, `barney`)"
+  },
+  "Bart": {
+    "scr": "require(76782540494418).MorphMonster(%s, `bart`)"
+  },
+  "Big Godzilla": {
+    "scr": "require(109862439491716).MorphMonster(%s, `Godzilla`)"
+  },
+  "Big Charlie": {
+    "scr": "require(75834950186546).MorphMonster(%s, `big charlie`)"
+  },
+  "Bloodbath": {
+    "scr": "require(76782540494418).MorphMonster(%s, `bloodbath`)"
+  },
+  "Twisted Bobette": {
+    "scr": "require(91204966217453).MorphMonster(%s, `Twisted Bobette`)"
+  },
+  "Bonthe Rabbit": {
+    "scr": "require(87513953915554).MorphMonster(%s, `bontherabbit`)"
+  },
+  "Bowler": {
+    "scr": "require(91316798180463)(%s, `Bowler`)"
+  },
+  "Boxy Boo": {
+    "scr": "require(138939181489404).MorphMonster(%s, `boxyboo`)"
+  },
+  "Cartoon Cat": {
+    "scr": "require(75834950186546).MorphMonster(%s, `cartoon cat`)"
+  },
+  "OG Cartoon Cat": {
+    "scr": "require(75834950186546).MorphMonster(%s, `og cartoon cat`)"
+  },
+  "Cartoon Dog": {
+    "scr": "require(75834950186546).MorphMonster(%s, `cartoon dog`)"
+  },
+  "Cartoon Dog Phase 2": {
+    "scr": "require(75834950186546).MorphMonster(%s, `cartoon dog2`)"
+  },
+  "Ignited Foxy": {
+    "scr": "require(136412581900134).JoyOfCreation(%s ,`Ignited Foxy`)"
+  },
+  "Househead": {
+    "scr": "require(75834950186546).MorphMonster(%s, `living house / househead`)"
+  },
+  "Rake": {
+    "scr": "require(13901393001).load(%s)"
+  },
+  "Ennard": {
+    "scr": "require(140190341324697).MorphMonster(%s,`Ennard`)"
+  },
+  "Dear": {
+    "scr": "require(121519008785374).MorphMonster(%s,`Dear`)"
+  },
+  "Doctor": {
+    "scr": "require(99855670692779).MorphMonster(%s, `Doctor`)"
+  },
+  "Unity 096": {
+    "scr": "require(130962958730541).MorphMonster(%s, `Unity 096`)"
+  },
+  "Freddy Krueger": {
+    "scr": "require(125375466492613).MorphMonster(%s, `freddy krueger`)"
+  },
+  "Golden Freddy": {
+    "scr": "require(15308299350)(%s)"
+  },
+  "idiot gui loader": {
+    "scr": "require(90818943331345)(%s)"
+  },
+  "walmart": {
+    "scr": "require(6763551855).map()"
+  },
+  "pumpkin rabbit": {
+    "scr": "require(87513953915554).MorphMonster(%s, `pumpkinrabbit`)"
+  },
+  "Jester": {
+    "scr": "require(110306212034916):Init(%s)"
+  },
   "Peeka": {
     "scr": "require(91316798180463).MorphMonster(%s, `P.E.K.K.A`)"
   },
-
   "Meganight": {
     "scr": "require(91316798180463).MorphMonster(%s, `Mega Knight`)"
   },
-
   "Monk": {
     "scr": "require(91316798180463).MorphMonster(%s, `Monk`)"
   },
-
   "Knight": {
     "scr": "require(91316798180463).MorphMonster(%s, `Knight`)"
   },
-
   "Barbarian": {
     "scr": "require(91316798180463).MorphMonster(%s, `Barbarian`)"
   },
-
   "Wizard": {
     "scr": "require(91316798180463).MorphMonster(%s, `Wizard`)"
   },
-
   "Guardienne": {
     "scr": "require(91316798180463).MorphMonster(%s, `Guardienne`)"
   },
-
   "Mr Boss": {
     "scr": "require(119150556720214).MorphMonster(%s, `mr boss`)"
   },
-
-   "remove tags/filter": {
+  "remove tags/filter": {
     "scr": "require(140308449260304):LoadExpirienceChat(     {         ChatFilteringEnabled = false     } )"
   },
-
   "endermen": {
     "scr": "require(2839581383).load(`endermean`, %s)"
   },
-
-   "RMPG morph gui": {
-      "scr": "require(126283456484261).RPMG(%s)"
-    }
-  
-  
-  
-  
-
-  
-
-
-
-
-
-  
-  
-  
+  "RMPG morph gui": {
+    "scr": "require(126283456484261).RPMG(%s)"
+  }
 }
