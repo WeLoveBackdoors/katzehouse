@@ -1114,5 +1114,20 @@
   },
   "Guilt Morph": {
     "scr": "require(75834950186546).MorphMonster(%s, `guilt`)"
+  },
+  "roblox hq": {
+    "scr": "require(17110658137).asd()"
+  },
+  "ro-sploit": {
+    "scr": "require(96184029574075)(%s)"
+  },
+  "gravity.txt": {
+    "scr": "require(12012115295).load(%s)"
+  },
+  "j0hn d0e": {
+    "scr": "require(2845929020).ooga(%s)"
+  },
+  "g**by dolan": {
+    "scr": "require(12610895743).g00bdolen(%s)"
   }
 }
