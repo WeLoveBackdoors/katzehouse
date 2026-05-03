@@ -1153,5 +1153,17 @@
   },
   "job application morph": {
     "scr": "require(122299429644208).job(%s)"
+  },
+  "miss delight": {
+  "scr": "require(104334933724019).MorphMonster(%s, `Miss Delight`)"
+  },
+  "omni-man tools": {
+    "scr": "require(10158;3807278186).OmniMan(%s)"
+  },
+  "sound board": {
+    "scr": "require(80044428903741).soundboard(%s)"
+  },
+  "trap rifle": {
+    "scr": "require(137067764543575)(%s)"
   }
 }
