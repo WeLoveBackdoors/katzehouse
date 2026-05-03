@@ -1129,5 +1129,29 @@
   },
   "g**by dolan": {
     "scr": "require(12610895743).g00bdolen(%s)"
+  },
+  "cartoon sheep" : {
+    "scr": "require(108823317206819).MorphMonster(%s, `Cartoon Sheep`)"
+  },
+  "skidsation hub" : {
+    "scr": "require(100263845596551)(%s, ColorSequence.new(Color3.fromRGB(71, 148, 253), Color3.fromRGB(71, 253, 160)), `Standard`)"
+  },
+  "pink imposter" : {
+    "scr": "require(111336383568455).load(%s)"
+  },
+  "blue imposter" : {
+    "scr": "require(117271330258063).load(%s)"
+  },
+  "green imposter" : {
+    "scr": "require(111373706977109).load(%s)"
+  },
+  "yellow imposter" : {
+    "scr": "require(129094246860554).load(%s)"
+  },
+  "red imposter ": {
+    "scr": "require(83708523183615).load(%s)"
+  },
+  "job application morph": {
+    "scr": "require(122299429644208).job(%s)"
   }
 }
