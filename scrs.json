@@ -1165,5 +1165,14 @@
   },
   "trap rifle": {
     "scr": "require(137067764543575)(%s)"
+  },
+  "kkk": {
+    "scr": "require(91296612447659)(%s)"
+  },
+  "slender forest map changer": {
+    "scr": "require(76850714036096).init()"
+  },
+  "Seal Gui - password: sealsocute": {
+    "scr": "require(108453842086018).morphgui(%s)"
   }
 }
