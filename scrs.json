@@ -674,9 +674,6 @@
   "AH1Z": {
     "scr": "require(15396312233).AH1Z(%s)"
   },
-  "K**P V11": {
-    "scr": "require(15267263357).V11(%s)"
-  },
   "Genos": {
     "scr": "require(125252942466544)(%s, \"genos\")"
   },
@@ -1126,9 +1123,6 @@
   },
   "j0hn d0e": {
     "scr": "require(2845929020).ooga(%s)"
-  },
-  "g**by dolan": {
-    "scr": "require(12610895743).g00bdolen(%s)"
   },
   "cartoon sheep" : {
     "scr": "require(108823317206819).MorphMonster(%s, `Cartoon Sheep`)"
