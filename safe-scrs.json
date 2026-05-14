@@ -20,9 +20,6 @@
   "Lamborghini Aventador": {
     "scr": "require(14504147510).Tutorial(%s)"
   },
-  "S3rverside.fun Infect": {
-    "scr": "require(15580578121)"
-  },
   "FiveSeven": {
     "scr": "require(134012448849646).GetGun(%s, \"FiveSeven\")"
   },
